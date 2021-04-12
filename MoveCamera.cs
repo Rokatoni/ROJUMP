@@ -1,3 +1,5 @@
+//MoveCamera by Rokatoni
+
 using UnityEngine;
 
 public class MoveCamera : MonoBehaviour {
